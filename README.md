@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdnlffh)](https://solved.ac/tmdnlffh/)
 
 ![c0mput3 GitHub stats](https://github-readme-stats.vercel.app/api?username=c0mput3-tech&show_icons=true&theme=radical)
