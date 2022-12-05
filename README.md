@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdnlffh)](https://solved.ac/tmdnlffh/)
 <!--
 **C0mput3-tech/C0mput3-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
